@@ -1,12 +1,12 @@
 {
   "name": "Vaazha Bot",
   "bot-account": {
-    "username": "AFK BOT",
+    "username": "Vaazha Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Tharikida.aternos.me",
+    "ip": "Vazha-5.aternos.me",
     "port": 30441,
     "version": "1.16.5",
     "try-creative": false
